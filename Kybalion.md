@@ -1,6 +1,6 @@
 ```mermaid
 graph TD
-    K(Kybalion) -->|1| M(Mentalism\nAll is mind)
+    K(Kybalion) -->|1| M(Mentalism\n- All is mind)
     K -->|2| C(Correspondence)
     K -->|3| V(Vibration)
     K -->|4| P(Polarity)
