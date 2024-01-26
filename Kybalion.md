@@ -7,7 +7,6 @@ graph TD
     K -->|5| R(Rhythm)
     K -->|6| CE(Cause and Effect)
     K -->|7| G(Gender)
-
     M --> I(Intuition)
     M --> TE(Thought Experiments)
     M --> MD(Meditation)
