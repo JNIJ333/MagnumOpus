@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     K(Kybalion) -->|1| M(Mentalism)
     K -->|2| C(Correspondence)
