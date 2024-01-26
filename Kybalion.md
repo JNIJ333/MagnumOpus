@@ -1,4 +1,5 @@
-```mermaid```
+```
+mermaid
 graph TD
     K(Kybalion) -->|1| M(Mentalism)
     K -->|2| C(Correspondence)
@@ -12,3 +13,4 @@ graph TD
     M --> MD(Meditation)
     M --> CI(Connecting Ideas)
     M --> CV(Creative Visualization)
+```
